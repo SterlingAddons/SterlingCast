@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/icon.png" width="128" alt="Sterling Cast & Swing icon"></p>
+
 <h1 align="center">Sterling Cast & Swing</h1>
 
 A cast bar and swing timer for WoW Forever, for every class. Auto shot, wands, melee and dual wield, with the rules the Forever client actually follows.
