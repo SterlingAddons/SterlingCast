@@ -16,4 +16,4 @@ Attach: `SterlingCast-<version>.zip` and `release.json`
 - **WowUp:** updates show up on their own. First time: Get Addons > Install from URL > `https://github.com/SterlingAddons/SterlingCast`
 - **Manual:** unzip `SterlingCast-<version>.zip` into `_forever_\Interface\AddOns\`, then restart the game.
 
-Personal add-on, no support.
+Only tested on a hunter so far. Feedback on other classes is welcome: [open an issue](https://github.com/SterlingAddons/SterlingCast/issues).

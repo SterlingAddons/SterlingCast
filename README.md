@@ -4,7 +4,7 @@
 
 A cast bar and swing timer for WoW Forever, for every class. Auto shot, wands, melee and dual wield, with the rules the Forever client actually follows.
 
-> **A personal add-on.** I built this for my own needs and share it as is. Support will not be provided, and issues or feature requests may not be answered.
+> **Tested on a hunter so far.** It's built for every class, but other classes haven't been tested in game yet. Feedback on how it works for your class is welcome: [open an issue](https://github.com/SterlingAddons/SterlingCast/issues).
 
 <p align="center"><img src="docs/screenshots/ranged.png" width="440" alt="Auto shot, the aim window, a cast bar, a clipped shot, haste glow and the dead zone"> <img src="docs/screenshots/melee-casting.png" width="440" alt="A queued melee attack, dual wield, a crafting batch and channel ticks"></p>
 
