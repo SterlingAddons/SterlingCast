@@ -6,6 +6,8 @@ A cast bar and swing timer for WoW Forever, for every class. Auto shot, wands, m
 
 > **A personal add-on.** I built this for my own needs and share it as is. Support will not be provided, and issues or feature requests may not be answered.
 
+<p align="center"><img src="docs/screenshots/ranged.png" width="440" alt="Auto shot, the aim window, a cast bar, a clipped shot, haste glow and the dead zone"> <img src="docs/screenshots/melee-casting.png" width="440" alt="A queued melee attack, dual wield, a crafting batch and channel ticks"></p>
+
 ## What it does
 
 **Swing timer**
@@ -14,7 +16,7 @@ A cast bar and swing timer for WoW Forever, for every class. Auto shot, wands, m
 - Everyone in melee: the melee swing timer while auto attack is on
 - Dual wield: the bar splits, main hand on the top half, off-hand on the bottom half
 - Queued next-swing attacks (Heroic Strike, Cleave, Raptor Strike, Maul) show their icon on the bar. Pick which ones from your spellbook
-- A swing that comes due while you're casting is lost and the timer starts over, and finishing a cast restarts the swing, the way Forever does it
+- A swing that comes due while you're casting is lost and the timer starts over. Finishing a cast restarts the swing, and so does starting a channel, the way Forever does it
 - Haste glow and "+30%" in the label while your swings are faster (Rapid Fire, Flurry, Slice and Dice, Berserking)
 - Warnings, each with an optional sound: moving while aiming, a cast that delays your shot, out of range, the dead zone, a clipped shot, a failed shot or facing the wrong way
 
@@ -30,6 +32,8 @@ A cast bar and swing timer for WoW Forever, for every class. Auto shot, wands, m
 
 ## Settings
 
+<p align="center"><img src="docs/screenshots/settings.png" width="880" alt="The Swing and Cast Bar settings tabs"></p>
+
 - **Swing:** melee timer, queued attacks and their picker, haste glow, dual wield split, casts restart the swing, global cooldown line, colors, warnings and sounds
 - **Cast Bar:** show casts, hide the game's cast bar, icon, height, crafting batches, latency, pushback, channel ticks, colors
 - **Bar:** unlock and drag (snaps to the center line, with a grid), size, when it shows, opacity in and out of combat, style presets, texture, edge, colors, and a test bar
@@ -41,6 +45,7 @@ A cast bar and swing timer for WoW Forever, for every class. Auto shot, wands, m
 |---|---|
 | `/stc` | Open or close the window |
 | `/stc test` | Run the test bar |
+| `/stc scenes` | Show each feature on the bar, one at a time, with Back and Next |
 | `/stc lock`, `/stc unlock` | Lock or unlock the bar for dragging |
 | `/stc reset` | Move the window back to the middle of the screen |
 | `/stc probe` | Record what the game reports for your swings and casts, then show it to copy |
