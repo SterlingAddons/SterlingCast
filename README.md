@@ -32,7 +32,7 @@ A cast bar and swing timer for WoW Forever, for every class. Auto shot, wands, m
 
 ## Settings
 
-<p align="center"><img src="docs/screenshots/settings.png" width="880" alt="The Swing and Cast Bar settings tabs"></p>
+<p align="center"><img src="docs/screenshots/settings.png" width="880" alt="The Swing, Cast Bar and Bar settings tabs"></p>
 
 - **Swing:** melee timer, queued attacks and their picker, haste glow, dual wield split, casts restart the swing, global cooldown line, colors, warnings and sounds
 - **Cast Bar:** show casts, hide the game's cast bar, icon, height, crafting batches, latency, pushback, channel ticks, colors
